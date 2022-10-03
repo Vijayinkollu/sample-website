@@ -1,2 +1,2 @@
 # sample-website
-sample website repo
+sample website repo react
